@@ -74,6 +74,11 @@ In this repository, you will find the following contents:
 ### Other Modifications
 If you want to do other modifications please search the internet, unfortunately other modifications are very generic and i cannot provide documentation for all of them.
 
+# Custom Keystore
+
+Due to a recent update in the Google Play Console, Google introduced a very ~~useful~~ useless rule that require developers to [keep updating the apps with the latest Android SDK Available](https://support.google.com/googleplay/android-developer/answer/11926878?hl=en) or get a possible app termination
+So after version 2.1.3 the complete app will be signed with a .jks keystore after importing the AI2 APK in Android Studio. Keep in mind that this is not necessary for testing
+
 # Decompiled App
 
 You can use the decompiled app to make modifications from source. Keep in mind that this operation requires advanced knowledge and it is not recommended
