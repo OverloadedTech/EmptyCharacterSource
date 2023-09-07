@@ -18,7 +18,7 @@ In this repository, you will find the following contents:
 
 1. Before beginning please know that this app runs on a custom version of MIT App Inventor and AI2 Offline, I found out that AI2 Offline works fine with almost all the app features without problems but if you ran into an issue during or after compiling the app or during test of the app export feel free to [tell me!](http://t.me/OverloadedTech)
 2. Download
-   - Head over to [the AI2 Page (If you don't trust the link, you can check it](https://sourceforge.net/projects/ai2offline/) or from [this direct link](https://netcologne.dl.sourceforge.net/project/ai2offline/4.8.3/AI2Offline_x64.exe) and click on the big green button `Download!`. Make sure to not eat the button so other users can use it
+   - Head over to [the AI2 Page (If you don't trust the link, you can check it)](https://sourceforge.net/projects/ai2offline/) and click on the big green button `Download`. Make sure to not eat the button so other users can use it
      ![images](https://overloadedtech.github.io/EmptyCharacterSource/images/Image1.png)
      ![images](https://overloadedtech.github.io/EmptyCharacterSource/images/Image2.png)
      ![images](https://overloadedtech.github.io/EmptyCharacterSource/images/Image3.png)
@@ -78,6 +78,12 @@ If you want to do other modifications please search the internet, unfortunately 
 
 Due to a recent update in the Google Play Console, Google introduced a very ~~useful~~ useless rule that require developers to [keep updating the apps with the latest Android SDK Available](https://support.google.com/googleplay/android-developer/answer/11926878?hl=en) or get a possible app termination
 So after version 2.1.3 the complete app will be signed with a .jks keystore after importing the AI2 APK in Android Studio. Keep in mind that this is not necessary for testing
+
+If you just want to play around with the app just use the integrated keystore manager in AI2 but make sure to protect it. For .jks signing i suggest Android Studio and APK Editor Studio
+
+## Fun Fact
+
+Also, this IDE supports dark mode lol
 
 # Decompiled App
 
