@@ -1,0 +1,24 @@
+!!brut.androlib.apk.ApkInfo
+apkFileName: EmptyCharacterLatest.apk
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '35'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '20204'
+  versionName: 2.2.4
